@@ -10,4 +10,4 @@ https://drive.google.com/file/d/1Yx3qStyhf7fPxXzQU8Rm2zK8tF9goVBr/view?usp=shari
 3. Change all the path to the paths where you have kept, DataForPlateNumFinder content
 4. Open all the .html files in templates folder and change paths if there is an error in loading CSS or images.
 ## Some snapshots of web application
-![](Web App Screenshots/Screenshot%20(110).png)
+![](Web%20App%20Screenshots/Screenshot%20(110).png)
